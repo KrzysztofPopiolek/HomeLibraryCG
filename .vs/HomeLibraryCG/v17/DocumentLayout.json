@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|c:\\users\\kapop\\onedrive\\programowanie\\homelibrarycg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|c:\\users\\kapop\\onedrive\\programowanie\\homelibrarycg\\homelibrarycg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|solutionrelative:homelibrarycg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeLibraryCG",
+              "DocumentMoniker": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\HomeLibraryCG.csproj",
+              "RelativeDocumentMoniker": "HomeLibraryCG.csproj",
+              "ToolTip": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\HomeLibraryCG.csproj",
+              "RelativeToolTip": "HomeLibraryCG.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T17:24:18.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:21:19.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

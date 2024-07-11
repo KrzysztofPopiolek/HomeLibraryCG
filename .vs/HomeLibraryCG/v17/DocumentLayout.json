@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|c:\\users\\kapop\\onedrive\\programowanie\\homelibrarycg\\src\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|solutionrelative:src\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|c:\\users\\kapop\\onedrive\\programowanie\\homelibrarycg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|c:\\users\\kapop\\onedrive\\programowanie\\homelibrarycg\\homelibrarycg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|solutionrelative:homelibrarycg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|c:\\users\\kapop\\onedrive\\programowanie\\homelibrarycg\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|solutionrelative:migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|c:\\users\\kapop\\onedrive\\programowanie\\homelibrarycg\\src\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|solutionrelative:src\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|c:\\users\\kapop\\onedrive\\programowanie\\homelibrarycg\\migrations\\20240711102132_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|solutionrelative:migrations\\20240711102132_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|c:\\users\\kapop\\onedrive\\programowanie\\homelibrarycg\\src\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|solutionrelative:src\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|c:\\users\\kapop\\onedrive\\programowanie\\homelibrarycg\\src\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|solutionrelative:src\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|c:\\users\\kapop\\onedrive\\programowanie\\homelibrarycg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8597BF4-600E-4335-9AB0-FF1E4DA89557}|HomeLibraryCG.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +42,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeLibraryCG",
-              "DocumentMoniker": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\HomeLibraryCG.csproj",
-              "RelativeDocumentMoniker": "HomeLibraryCG.csproj",
-              "ToolTip": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\HomeLibraryCG.csproj",
-              "RelativeToolTip": "HomeLibraryCG.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-07T17:24:18.335Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T17:21:19.329Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\src\\controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "src\\controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\src\\controllers\\BookController.cs",
+              "RelativeToolTip": "src\\controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:40:12.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:22:41.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240711102132_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\Migrations\\20240711102132_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240711102132_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\Migrations\\20240711102132_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240711102132_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:22:23.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\src\\data\\DataContext.cs",
+              "RelativeDocumentMoniker": "src\\data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\src\\data\\DataContext.cs",
+              "RelativeToolTip": "src\\data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:15:04.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T03:32:45.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\src\\models\\Book.cs",
+              "RelativeDocumentMoniker": "src\\models\\Book.cs",
+              "ToolTip": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\src\\models\\Book.cs",
+              "RelativeToolTip": "src\\models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:18:56.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\src\\models\\Item.cs",
+              "RelativeDocumentMoniker": "src\\models\\Item.cs",
+              "ToolTip": "C:\\Users\\kapop\\OneDrive\\Programowanie\\HomeLibraryCG\\src\\models\\Item.cs",
+              "RelativeToolTip": "src\\models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:09:59.192Z",
               "EditorCaption": ""
             }
           ]

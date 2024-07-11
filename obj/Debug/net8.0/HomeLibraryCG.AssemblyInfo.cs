@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeLibraryCG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5b114dd1a34188e17a0648c7897e4e8c1df3203")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeLibraryCG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeLibraryCG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
